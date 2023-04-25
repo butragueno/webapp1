@@ -7,8 +7,8 @@ Desktop.ini
 *.so
 *.egg
 *.egg-info
-
 build
+test.py
 #dir
 __pycache__/
 log/
